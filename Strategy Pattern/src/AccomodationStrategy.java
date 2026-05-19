@@ -1,0 +1,3 @@
+interface AccomodationStrategy {
+    void book();
+} 

@@ -1,0 +1,3 @@
+interface TransportationStrategy {
+    void travel();
+}
